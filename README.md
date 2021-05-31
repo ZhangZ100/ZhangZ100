@@ -18,12 +18,22 @@ Here are some ideas to get you started:
 
 - 😺 快乐学习ing
 - 🌱 I’m currently learning at WHU...
+- ⚡️ Fun fact: I'm a huge fan of San Ti, I love to eat
+- 😄 ...
 
 ### Languages and Tools: 🔥
+- ⚙️ I  use and work:  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) 
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+  
+- 🔭 Learning all about:
+![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java)
+![Java](https://img.shields.io/badge/java-%20-green)
+![](https://img.shields.io/badge/mysql-%20-yellowgreen)
+![](https://img.shields.io/badge/linux-%20-orange)
 
 
 ### 汇总 ✨
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=ZhagnZ100&theme=dark&show_icons=true)](https://github.com/ZhagnZ100)
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/pin/?username=ZhagnZ100&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/ZhagnZ100)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ZhagnZ100i&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhagnZ100&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 ![](https://profile-counter.glitch.me/ZhagnZ100/count.svg)
