@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 
 ### 汇总 ✨
-![Morol's github stats](https://github-readme-stats.vercel.app/api?username=ZhagnZ100&show_icons=true&theme=merko)
+[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=ZhagnZ100&theme=dark&show_icons=true)](https://github.com/ZhagnZ100)
+[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/pin/?username=ZhagnZ100&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/ZhagnZ100)
 
-![Visitor Count](https://profile-counter.glitch.me/ZhagnZ100/count.svg)
+![](https://profile-counter.glitch.me/ZhagnZ100/count.svg)
