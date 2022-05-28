@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋,  i'm z100 AlexanderMahone 🐟
+### Hi there 👋,  i'm z100 🐟
 
 - 😺 快乐学习ing
 - 🌱 I’m currently learning at w ...
 - ⚡ blog: [z100mh.github.io](https://z100mh.github.io/)
+- 🔭 AlexanderMahone
 
 <!-- ### Languages and Tools: 🔥
 - ⚙️ I  use and work:  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) 
