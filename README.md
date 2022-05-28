@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ### Hi there 👋,  我是Z100 🐟
 
 - 😺 快乐学习ing
-- 🌱 I’m currently learning at WHU...
-- 😄 ...
+- 🌱 I’m currently learning at w...
+- ⚡ blog: [z100mh.github.io](https://z100mh.github.io/)
 
 <!-- ### Languages and Tools: 🔥
 - ⚙️ I  use and work:  ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) 
