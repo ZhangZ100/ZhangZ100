@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋,  我是Z100 🐟
+### Hi there 👋,  i'm z100 AlexanderMahone 🐟
 
 - 😺 快乐学习ing
 - 🌱 I’m currently learning at w ...
