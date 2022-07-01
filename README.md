@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 😺 快乐学习ing
 - 🌱 I’m currently learning at w ...
-- ⚡ blog: [z100mh.github.io](https://z100mh.github.io/)
+- ⚡ blog: [scout9527.github.io](https://scout9527.github.io/)
 - 🔭 AlexanderMahone
 
 <!-- ### Languages and Tools: 🔥
